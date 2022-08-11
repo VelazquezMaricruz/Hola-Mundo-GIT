@@ -1,2 +1,4 @@
 let nombre = "Maria Velazquez";
-console.log ("Hola" + nombre);
+let edad = 23;
+console.log ("Hola "  +  nombre);
+console.log (nombre + " tiene "+ edad + " años");
