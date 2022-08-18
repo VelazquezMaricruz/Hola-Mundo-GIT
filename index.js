@@ -1,4 +1,4 @@
-let nombre = "Maria Velazquez";
+let nombre = "Mari Cruz  Velazquez";
 let edad = CalcularEdad(1998);
 console.log ("Hola "  +  nombre);
 console.log (nombre + " tiene "+ edad + " años");
